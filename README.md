@@ -16,7 +16,7 @@
 ## Інструкція з встановлення
 1. **Клонування репозиторію**  
    ```bash
-   [git clone https://github.com/Eichant/API_Flask_SQLAlchemy.git
+   git clone https://github.com/Eichant/API_Flask_SQLAlchemy.git
    cd flask-api
    ```
 
